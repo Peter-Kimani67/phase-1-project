@@ -1,6 +1,6 @@
 ## Overview
 
-This notebook will demonstrate the viability of acquiring and operating aircraft for both private and commercial purposes. By analyzing data from the National Transportation Safety Board (NTSB), we will examine various aircraft incidents and evaluate the associated risks of different types of planes.
+This notebook will explore the viability of acquiring and operating aircraft for both private and commercial purposes. By analyzing data from the National Transportation Safety Board (NTSB), we will examine various aircraft incidents and evaluate the associated risks of different types of planes.
 
 ## Business Understanding
 
