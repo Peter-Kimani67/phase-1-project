@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 This notebook will demonstrate the viability of acquiring and operating aircraft for both private and commercial purposes. By analyzing data from the National Transportation Safety Board (NTSB), we will examine various aircraft incidents and evaluate the associated risks of different types of planes.
 
@@ -44,3 +44,5 @@ Although Cessna and Piper aircraft are involved in the majority of incidents, it
 * The weather conditions bar plots shows there is a higher frequency of smaller aircraft accidents in conditions with high and low visibility, this may also be attributed to smaller aircraft are more subject to changes in weather even though there may still be other underlying factors that could lead to a crash.
 
 From these insights, it's advisable to: opt for medium to large aircraft - as they are involved in fewer accidents, ensure pilots and crew receive comprehensive training and acquire aircraft featuring cutting-edge technology and systems. These measures would help minimize the risk of major losses and casualties in the event of an accident
+
+Tableau link here: https://public.tableau.com/app/profile/peter.kimani1471/viz/AviationDashboard_17272907301050/Dashboard1?publish=yes
