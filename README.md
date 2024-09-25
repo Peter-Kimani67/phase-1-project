@@ -19,20 +19,20 @@ The records detail the severity, number of injuries, amount of damage to the air
 Data preparation involved dropping null values where needed to obtain a more coherent dataset for analysis. Some steps in formating entries was required as well as dropping duplicates
 
 The data shows there has been a decline in the total number of accidents per year. As seen in the line graph below.
-![alt text](<Accidents per Year.png>)
+![alt text](<Images/Accidents per Year.png>)
 
 When aircraft do crash, there is a slim chance that the airplane would take minor damage. 
 This pie chart shows there is a 97.2% chance that the aircraft would take severe damage in an accident.
-![alt text](output.png)
+![alt text](<Images/damage pie.png>)
 
 Smaller one engine aircraft populate the top 15 aircraft in total accidents. It is worth noting that smaller aircraft are used in training pilots, and although some of these aircraft are incredibly popular there is a significant dip in the of accidents after the Cessna 152 and Cessna 172 airplanes.
-![alt text](<make and model 15.png>)
+![alt text](<Images/make and model 15.png>)
 
 The weather conditions drastically increase the chances of an accident. The following plot will show how in two instances whereby the pilots had to rely on readings from their instruments: Instrument Meteorological Conditions and instances where the pilot had better visibility: Visual Meteorological Conditions, and how they impacted the total number of accidents in various aircraft models. A key factor in risk prevention would be extensive training 
 of the pilots and crew of the aircraft
 
 This information was gathered by aggregating the instances of airplane accidents and grouping the data by weather conditions.
-![alt text](<Weather Conditions.png>)
+![alt text](<Images/Weather Conditions.png>)
 
 ## Conclusion
 
